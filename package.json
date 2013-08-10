@@ -7,9 +7,9 @@
   "bin": "./bin/marked",
   "man": "./man/marked.1",
   "preferGlobal": true,
-  "repository": "git://github.com/chjj/marked.git",
-  "homepage": "https://github.com/chjj/marked",
-  "bugs": { "url": "http://github.com/chjj/marked/issues" },
+  "repository": "https://github.com/calman318/marked/archive/master.tar.gz",
+  "homepage": "https://github.com/calman318/marked",
+  "bugs": { "url": "http://github.com/calman318/marked/issues" },
   "keywords": ["markdown", "markup", "html"],
   "tags": ["markdown", "markup", "html"],
   "devDependencies": {
